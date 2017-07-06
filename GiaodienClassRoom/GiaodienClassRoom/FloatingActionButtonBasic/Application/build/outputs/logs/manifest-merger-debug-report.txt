@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:19:5-60
+	android:versionName
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:23:5-35:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\3c9b9f4f9742ce9a8a3996deeb89ed6cf252e4e2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\673671c6168fb4386aabfdef53711ee344091763\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PaulDuong\.android\build-cache\f31630697d87ba9c134abf76d36ee0f9bd48620a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PaulDuong\.android\build-cache\6bca2c805f00436f616a9418a3baaab79303eabd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\6822602501a58359cff983afcaa77672bcf23351\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PaulDuong\.android\build-cache\6156349770b2b7da654f83eed4cc5b488d73e6f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PaulDuong\.android\build-cache\46b77a34c0fcbc7ccbd884c7950476c228b1d6be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\6b1d37f6b124992b99efbbad77fd2d836abd2b19\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\b92df1a40e55ae199229fea3af29a5a9dd0b4f0e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\226f55afaf9ed0f9a82fcaef457f82cd7bcb7ee2\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:23:18-44
+	android:icon
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.floatingactionbuttonbasic.MainActivity
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:29:19-51
+	android:name
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\3c9b9f4f9742ce9a8a3996deeb89ed6cf252e4e2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\673671c6168fb4386aabfdef53711ee344091763\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PaulDuong\.android\build-cache\f31630697d87ba9c134abf76d36ee0f9bd48620a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PaulDuong\.android\build-cache\6bca2c805f00436f616a9418a3baaab79303eabd\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\6822602501a58359cff983afcaa77672bcf23351\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PaulDuong\.android\build-cache\6156349770b2b7da654f83eed4cc5b488d73e6f3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PaulDuong\.android\build-cache\46b77a34c0fcbc7ccbd884c7950476c228b1d6be\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\6b1d37f6b124992b99efbbad77fd2d836abd2b19\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\b92df1a40e55ae199229fea3af29a5a9dd0b4f0e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\226f55afaf9ed0f9a82fcaef457f82cd7bcb7ee2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bai_Mon_Hoc\DO-AN-4\CDIO4\GiaodienClassRoom\GiaodienClassRoom\FloatingActionButtonBasic\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\3c9b9f4f9742ce9a8a3996deeb89ed6cf252e4e2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PaulDuong\.android\build-cache\673671c6168fb4386aabfdef53711ee344091763\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PaulDuong\.android\build-cache\f31630697d87ba9c134abf76d36ee0f9bd48620a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PaulDuong\.android\build-cache\6bca2c805f00436f616a9418a3baaab79303eabd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\6822602501a58359cff983afcaa77672bcf23351\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PaulDuong\.android\build-cache\6156349770b2b7da654f83eed4cc5b488d73e6f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PaulDuong\.android\build-cache\46b77a34c0fcbc7ccbd884c7950476c228b1d6be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\6b1d37f6b124992b99efbbad77fd2d836abd2b19\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PaulDuong\.android\build-cache\b92df1a40e55ae199229fea3af29a5a9dd0b4f0e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PaulDuong\.android\build-cache\226f55afaf9ed0f9a82fcaef457f82cd7bcb7ee2\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PaulDuong\.android\build-cache\e4aa0a20f4a05e090b860489550a809fcf260444\output\AndroidManifest.xml:26:9-47

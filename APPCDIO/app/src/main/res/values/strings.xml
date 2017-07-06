@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">APPCDIO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    //add
+    <string name="facebook_app_id">231461257259051</string>
+    <string name="fb_login_protocol_scheme">fb231461257259051</string>
+    <string name="xinchao">welcome</string>
+    <string name="dangxuat">logout</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Add_Khoa_Hoc">Add Khoa Hoc</string>
+    <string name="JoinKhoaHoc">Join Khoa Hoc</string>
+    <string name="name_Class">Name Class</string>
+    <string name="description">Description</string>
+    <string name="add">ADD ClASS</string>
+    <string name="itapply">apply</string>
+    <string name="itsearch">search</string>
+    <string name="itedit">edit</string>
+    <string name="itdelete">delete</string>
+
+</resources>

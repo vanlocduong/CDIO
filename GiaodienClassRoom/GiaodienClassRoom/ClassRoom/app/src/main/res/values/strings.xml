@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassRoom</string>
+    <string-array name="planets_array">
+        <item>Câu trả lời ngắn</item>
+        <item>Trắc nghiêm</item>
+    </string-array>
+</resources>

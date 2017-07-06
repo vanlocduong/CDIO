@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Bai_Mon_Hoc\\DO-AN-4\\CDIO4\\GiaodienClassRoom\\GiaodienClassRoom\\FloatingActionButtonBasic\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\PaulDuong\\.android\\build-cache\\673671c6168fb4386aabfdef53711ee344091763\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
